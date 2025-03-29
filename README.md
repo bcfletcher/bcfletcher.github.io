@@ -2,6 +2,6 @@ Welcome to my Github Site
 
 This web page is primarily here so that Google will index my Github repos.
 
-My Lego Project can be found at https://github.com/bcfletcher/lego_projects
+My Lego Projects can be found at <a href="https://github.com/bcfletcher/lego_projects">https://github.com/bcfletcher/lego_projects</a>
 
-My Halloween Project can be found at https://github.com/bcfletcher/Halloweeen-Projects
+My Halloween Projects can be found  <a href="https://github.com/bcfletcher/Halloweeen-Projects">https://github.com/bcfletcher/Halloweeen-Projects</a>
