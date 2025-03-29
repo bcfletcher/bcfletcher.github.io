@@ -1,4 +1,6 @@
-Welcome to my Github Site
+<meta name="google-site-verification" content="KhaYT-jQA_d4hJ-zF8Ctdfn0KiIjzSViTZPZjzMTbvg" />
+
+<H1>Welcome to my Github Site</H1>
 
 This web page is primarily here so that Google will index my Github repos.
 
