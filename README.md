@@ -18,3 +18,5 @@ All new Lego Python examples and my robot library will be for Pybricks. I have d
 
 
 My Halloween Projects respository can be found  <a href="https://github.com/bcfletcher/Halloweeen-Projects">https://github.com/bcfletcher/Halloweeen-Projects</a>
+
+I run a Halloween Maze every year in my front yard. It consists of a combination of animatronics from Spirit, Home Depot, Lowe's and a few other places. I primary use Raspberry Picos to control the animatronics via SB Component's Pico Relay Board. In 2025, I used red lasers to trip a set of four animatronics tied to each controller box. Future updates will include use of other sensor technologies.
